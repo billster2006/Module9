@@ -15,4 +15,3 @@ def print_set(s):
     print(s)
 
 
-    if __name__ == '__main__':
